@@ -1,1 +1,2 @@
-This is just a test for git
+This is just a test for git!
+This is the second test for the git!!
